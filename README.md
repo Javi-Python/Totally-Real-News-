@@ -6,7 +6,7 @@
 
 ## The Dark Side of Data
 
-This project seeks to explore the dark side of Data. I wanted to see the ways that Fake News can be created using Neural Networks, and how we can use categorical algorithms to try and fight the spread of misinformation in the web. I hope you enjoy it :)
+This project seeks to explore the dark side of Data. Fake news and fake personalities have been growing all over the internet. Weather it created by instituions or created by individuals the fact stands that there are people trying to influence your thoughs with the use of such tactics. Therefore, I wanted to explore the ways that Fake News could potentially be created using Neural Networks, and how we can use convolutional neural networks to try and fight the spread of misinformation by predicting if a news story is real or fake based in content alone. 
 
 
 # Project Specifications
