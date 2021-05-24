@@ -1,3 +1,5 @@
+
+
 # Totally-Real-News-
 
 ![The-dark-side-of-the-Force-is-a-pathway-to-many-abilities-some-consider-to-be-unnatural](https://user-images.githubusercontent.com/1562979/119338852-6c17b800-bc88-11eb-95f0-02a6256ead2e.jpeg)
@@ -14,10 +16,15 @@ Throughout this project we used various different technologys:
 - Grover
 - GPT-simple
 
+<img width="917" alt="Screen Shot 2021-05-11 at 9 26 19 PM" src="https://user-images.githubusercontent.com/1562979/119368438-ed804200-bcaa-11eb-88a0-77923b5937a1.png">
+
 ### Fake News Classification:
 - Spacy (data pre-processing)
 - Tensorflow
 - Keras
+
+![model](https://user-images.githubusercontent.com/1562979/119368328-c9bcfc00-bcaa-11eb-94fa-1f747b36e2b2.jpg)
+
 
 ### APP Creation
 - Streamlit
@@ -27,8 +34,10 @@ Throughout this project we used various different technologys:
 - Topic Modeling: Initial Topic Modeling and Algorithm Creation
 - Exploring Keras: Creating Neural Nets and testing out different ones in keras
 - Neural Fake Tests: Testing with  \Neural Fake News
+- SRC: includes code for streamlit including functions for Using GPT-2Simple model, and functions for prediction using tokenizer and keras trained models.
+
+![GPT2meme](https://user-images.githubusercontent.com/1562979/119368575-156fa580-bcab-11eb-9b99-8c6729de169f.jpeg)
 
 
 
 
-Very real news blog that is totally not fake ;)
